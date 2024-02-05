@@ -5,41 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc9c823e-1883-4818-933b-2ef94f0652dd" name="Changes" comment="ok">
-      <change afterPath="$PROJECT_DIR$/model/src/test/java/model/MapTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/model/src/test/java/view/BoulderDashViewTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/model/src/test/java/view/BoulderDashViewTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/controller/controller/BoulderDashController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/controller/controller/Controllermock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/modele/model/BoulderDashModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/modele/model/Map.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/modele/model/allElements/Element.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/modele/model/allElements/Permeability.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/modele/model/allElements/Sprite.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/modele/model/allElements/SpriteSheetCutter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/modele/model/allElements/mobileElem/MobileElem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/modele/model/allElements/mobileElem/Monster.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/modele/model/allElements/mobileElem/Player.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/modele/model/allElements/staticElem/Diamond.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/modele/model/allElements/staticElem/Empty.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/modele/model/allElements/staticElem/Rock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/modele/model/allElements/staticElem/Sand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/modele/model/allElements/staticElem/StaticElem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/modele/model/allElements/staticElem/Wall.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/modele/model/dao/DBConnection.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/modele/model/dao/QueryEntity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/view/view/BoulderDashView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/view/view/BoulderDashView.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/view/view/BoulderDashView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/view/view/mock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/test1/controller/BoulderDashControllerTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/test1/model/BoulderDashModelTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/test1/model/allElements/ElementTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/test1/model/allElements/MobileElemTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/test1/model/allElements/SpriteTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/test1/model/allElements/StaticElemTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/test1/model/dao/DBConnectionTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/test1/model/dao/QueryEntityTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/test1/view/BoulderDashViewTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/test1/view/BoulderDashViewTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/test1/view/BoulderDashViewTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/view/src/main/java/view/BoulderDashView.java" beforeDir="false" afterPath="$PROJECT_DIR$/view/src/main/java/view/BoulderDashView.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,23 +36,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/ucac/X2/prosit 5 poo",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/ucac/X2/prosit 5 poo&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -94,7 +61,7 @@
       <recent name="model" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MapTest">
+  <component name="RunManager" selected="JUnit.BoulderDashViewTest.testHandleKeyPressed">
     <configuration name="BoulderDashControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test1" />
       <extension name="coverage">
@@ -121,6 +88,22 @@
       <option name="PACKAGE_NAME" value="view" />
       <option name="MAIN_CLASS_NAME" value="view.BoulderDashViewTest" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BoulderDashViewTest.testHandleKeyPressed" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="view" />
+      <option name="MAIN_CLASS_NAME" value="view.BoulderDashViewTest" />
+      <option name="METHOD_NAME" value="testHandleKeyPressed" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -155,28 +138,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MobileElemTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="test1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="model.allElements.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="model.allElements" />
-      <option name="MAIN_CLASS_NAME" value="model.allElements.MobileElemTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.BoulderDashViewTest.testHandleKeyPressed" />
         <item itemvalue="JUnit.MapTest" />
         <item itemvalue="JUnit.BoulderDashViewTest" />
         <item itemvalue="JUnit.BoulderDashControllerTest" />
         <item itemvalue="JUnit.ElementTest" />
-        <item itemvalue="JUnit.MobileElemTest" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +173,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707159616258</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ok">
+      <option name="closed" value="true" />
+      <created>1707161110112</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707161110112</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

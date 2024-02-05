@@ -233,7 +233,7 @@ public class BoulderDashView extends JFrame implements IBoulderDashView, KeyList
                 }
                 break;
 
-            // Ajoutez d'autres cas pour d'autres touches si nécessaire
+
         }
     }
 
