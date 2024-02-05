@@ -100,16 +100,16 @@ public class BoulderDashViewTest {
         player.setPosition(new Point(10, 10));//(position initial) // on a des valeurs quelconques pour les positions qu'on va remplacer
         KeyEvent eventW = new KeyEvent(new JLabel(), KeyEvent.KEY_PRESSED, System.currentTimeMillis(), 0, KeyEvent.VK_W, 'W');
         view.keyPressed(eventW);
-        player.setPosition(new Point(10, 9));
+        assertEquals(new Point(9, 10), player.getPosition());
         KeyEvent eventS = new KeyEvent(new JLabel(), KeyEvent.KEY_PRESSED, System.currentTimeMillis(), 0, KeyEvent.VK_S, 'S');
         view.keyPressed(eventS);
-        player.setPosition(new Point(10, 11));
+        assertEquals(new Point(10, 11), player.getPosition());
         KeyEvent eventA = new KeyEvent(new JLabel(), KeyEvent.KEY_PRESSED, System.currentTimeMillis(), 0, KeyEvent.VK_A, 'A');
         view.keyPressed(eventA);
-        player.setPosition(new Point(9, 10));
+        assertEquals(new Point(10, 9), player.getPosition());
         KeyEvent eventD = new KeyEvent(new JLabel(), KeyEvent.KEY_PRESSED, System.currentTimeMillis(), 0, KeyEvent.VK_D, 'D');
         view.keyPressed(eventD);
-        player.setPosition(new Point(11, 10));
+       assertEquals(new Point(11, 10), player.getPosition());
 
     }
 }
