@@ -147,7 +147,7 @@ public class BoulderDashView extends JFrame implements IBoulderDashView, KeyList
         ImageIcon NextIcon, NextNextIcon;
         Image NextIconImg, NextNextImage;
         switch (keyCode) {
-            case KeyEvent.VK_LEFT:
+            case KeyEvent.VK_A:
                 // Déplacement vers la gauche
                 newX = this.player.getPosition().x -1;
                 newY = this.player.getPosition().y;
@@ -171,7 +171,7 @@ public class BoulderDashView extends JFrame implements IBoulderDashView, KeyList
                     this.player.getPosition().setLocation(newX, newY);
                 }
                 break;
-            case KeyEvent.VK_RIGHT:
+            case KeyEvent.VK_D:
                 // Déplacement vers la droite
                 newX = this.player.getPosition().x +1;
                 newY = this.player.getPosition().y;
@@ -194,7 +194,7 @@ public class BoulderDashView extends JFrame implements IBoulderDashView, KeyList
                     this.player.getPosition().setLocation(newX, newY);
                 }
                 break;
-            case KeyEvent.VK_UP:
+            case KeyEvent.VK_W:
                 // Déplacement vers le haut
                 newX = this.player.getPosition().x;
                 newY = this.player.getPosition().y - 1;
@@ -213,7 +213,7 @@ public class BoulderDashView extends JFrame implements IBoulderDashView, KeyList
                     this.player.getPosition().setLocation(newX, newY);
                 }
                 break;
-            case KeyEvent.VK_DOWN:
+            case KeyEvent.VK_S:
                 // Déplacement vers le bas
                 newX = this.player.getPosition().x;
                 newY = this.player.getPosition().y + 1;

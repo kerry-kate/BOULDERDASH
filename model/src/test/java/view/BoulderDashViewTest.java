@@ -97,7 +97,19 @@ public class BoulderDashViewTest {
         JLabel playerLabel = new JLabel(playerIcon);
         labels[10][10] = playerLabel;
         view.setLabels(labels);
-        player.setPosition(new Point(10, 10)); // on a des valeurs quelconques pour les positions
+        player.setPosition(new Point(10, 10));//(position initial) // on a des valeurs quelconques pour les positions qu'on va remplacer
+        KeyEvent eventW = new KeyEvent(new JLabel(), KeyEvent.KEY_PRESSED, System.currentTimeMillis(), 0, KeyEvent.VK_W, 'W');
+        view.keyPressed(eventW);
+        player.setPosition(new Point(10, 9));
+        KeyEvent eventS = new KeyEvent(new JLabel(), KeyEvent.KEY_PRESSED, System.currentTimeMillis(), 0, KeyEvent.VK_S, 'S');
+        view.keyPressed(eventS);
+        player.setPosition(new Point(10, 11));
+        KeyEvent eventA = new KeyEvent(new JLabel(), KeyEvent.KEY_PRESSED, System.currentTimeMillis(), 0, KeyEvent.VK_A, 'A');
+        view.keyPressed(eventA);
+        player.setPosition(new Point(9, 10));
+        KeyEvent eventD = new KeyEvent(new JLabel(), KeyEvent.KEY_PRESSED, System.currentTimeMillis(), 0, KeyEvent.VK_D, 'D');
+        view.keyPressed(eventD);
+        player.setPosition(new Point(11, 10));
 
     }
 }

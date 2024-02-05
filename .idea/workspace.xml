@@ -4,11 +4,55 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc9c823e-1883-4818-933b-2ef94f0652dd" name="Changes" comment="ok" />
+    <list default="true" id="cc9c823e-1883-4818-933b-2ef94f0652dd" name="Changes" comment="ok">
+      <change afterPath="$PROJECT_DIR$/model/src/test/java/model/MapTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/src/test/java/view/BoulderDashViewTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/model/src/test/java/view/BoulderDashViewTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/controller/controller/BoulderDashController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/controller/controller/Controllermock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/modele/model/BoulderDashModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/modele/model/Map.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/modele/model/allElements/Element.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/modele/model/allElements/Permeability.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/modele/model/allElements/Sprite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/modele/model/allElements/SpriteSheetCutter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/modele/model/allElements/mobileElem/MobileElem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/modele/model/allElements/mobileElem/Monster.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/modele/model/allElements/mobileElem/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/modele/model/allElements/staticElem/Diamond.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/modele/model/allElements/staticElem/Empty.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/modele/model/allElements/staticElem/Rock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/modele/model/allElements/staticElem/Sand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/modele/model/allElements/staticElem/StaticElem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/modele/model/allElements/staticElem/Wall.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/modele/model/dao/DBConnection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/modele/model/dao/QueryEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/view/view/BoulderDashView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/view/view/BoulderDashView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/view/view/BoulderDashView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/view/view/mock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/test1/controller/BoulderDashControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/test1/model/BoulderDashModelTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/test1/model/allElements/ElementTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/test1/model/allElements/MobileElemTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/test1/model/allElements/SpriteTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/test1/model/allElements/StaticElemTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/test1/model/dao/DBConnectionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/test1/model/dao/QueryEntityTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/test1/view/BoulderDashViewTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/test1/view/BoulderDashViewTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/test1/view/BoulderDashViewTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/src/main/java/view/BoulderDashView.java" beforeDir="false" afterPath="$PROJECT_DIR$/view/src/main/java/view/BoulderDashView.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -33,6 +77,8 @@
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "D:/ucac/X2/prosit 5 poo",
     "project.structure.last.edited": "Project",
@@ -40,8 +86,61 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.MobileElemTest">
-    <configuration name="BoulderDashModelTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MapTest">
+    <configuration name="BoulderDashControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="controller" />
+      <option name="MAIN_CLASS_NAME" value="controller.BoulderDashControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BoulderDashViewTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="view" />
+      <option name="MAIN_CLASS_NAME" value="view.BoulderDashViewTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElementTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="model.allElements.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="model.allElements" />
+      <option name="MAIN_CLASS_NAME" value="model.allElements.ElementTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test1" />
       <extension name="coverage">
         <pattern>
@@ -50,7 +149,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="model" />
-      <option name="MAIN_CLASS_NAME" value="model.BoulderDashModelTest" />
+      <option name="MAIN_CLASS_NAME" value="model.MapTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -71,42 +170,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QueryEntityTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="test1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="model.dao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="model.dao" />
-      <option name="MAIN_CLASS_NAME" value="model.dao.QueryEntityTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SpriteTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="test1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="model.allElements.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="model.allElements" />
-      <option name="MAIN_CLASS_NAME" value="model.allElements.SpriteTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MapTest" />
+        <item itemvalue="JUnit.BoulderDashViewTest" />
+        <item itemvalue="JUnit.BoulderDashControllerTest" />
+        <item itemvalue="JUnit.ElementTest" />
         <item itemvalue="JUnit.MobileElemTest" />
-        <item itemvalue="JUnit.SpriteTest" />
-        <item itemvalue="JUnit.BoulderDashModelTest" />
-        <item itemvalue="JUnit.QueryEntityTest" />
       </list>
     </recent_temporary>
   </component>
@@ -127,7 +197,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707159149165</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ok">
+      <option name="closed" value="true" />
+      <created>1707159616258</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707159616258</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
