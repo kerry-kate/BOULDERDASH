@@ -7,10 +7,10 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="view" />
     <orderEntry type="module" module-name="contract" />
     <orderEntry type="module" module-name="modele" />
-    <orderEntry type="module" module-name="test1" />
+    <orderEntry type="module" module-name="view" />
     <orderEntry type="module" module-name="controller" />
+    <orderEntry type="module" module-name="test1" />
   </component>
 </module>

@@ -7,6 +7,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="contract" />
+    <orderEntry type="module" module-name="modele" />
     <orderEntry type="module-library" scope="TEST">
       <library name="JUnit5.8.1">
         <CLASSES>
@@ -23,9 +25,7 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module" module-name="contract" scope="TEST" />
     <orderEntry type="module" module-name="view" scope="TEST" />
-    <orderEntry type="module" module-name="modele" scope="TEST" />
     <orderEntry type="module" module-name="controller" scope="TEST" />
   </component>
 </module>
